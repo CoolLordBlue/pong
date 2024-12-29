@@ -1,1 +1,1 @@
-Create a package called "game" for all the classes and any .txt files
+Simple two player game of pong. Player 1 is controlled by wasd and Player 2 is controlled by left, right, up, and down arrows
